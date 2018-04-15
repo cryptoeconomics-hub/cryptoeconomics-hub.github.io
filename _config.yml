@@ -3,7 +3,7 @@ title: Cryptoeconomics.hub
 subtitle: 
 email: cryptoeconomics.hub@gmail.com
 description: Cryptoeconomics is complex, but this exactly makes it so attractive, not mentioning its potential, which is enormous and still uncovered. The idea of this Meetup is to present this new research topic by inviting speakers and having open discussions.
-baseurl: "/cryptoeconomics-hub.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/cryptoeconomics-hub.github.io/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 
