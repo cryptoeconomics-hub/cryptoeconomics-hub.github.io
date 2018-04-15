@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'The Power and Fear of incentives'
+landing-title: 'The Power and Fear of Incentives'
 description: null
 image: null
 author: null
