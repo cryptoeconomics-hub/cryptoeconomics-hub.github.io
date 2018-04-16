@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'The Power and Fear of Incentives'
 description: 'this is a description'
-image: assets/images/cryptoeconomics.hub-banner.jpg
+image: assets/images/banner.jpg
 author: Sandra & Laurent
 ---
 
