@@ -2,7 +2,7 @@
 title: Cryptoeconomics.hub
 subtitle: The Power and Fear of Incentives
 email: cryptoeconomics.hub@gmail.com
-description: Cryptoeconomics is complex, but this exactly makes it so attractive, not mentioning its potential, which is enormous and still uncovered. The idea of this Meetup is to present this new research topic by inviting speakers and having open discussions.
+description: Cryptoeconomics is what makes blockchain technology so exiting. It is about designing incentives to lead people's behaviour into a certain direction without forcing anyone. It is about cryptography, game theory, mechanism design, behavioural economics and so much more.
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://cryptoeconomics-hub.github.io" # the base hostname & protocol for your site
 author:
@@ -14,13 +14,13 @@ country:
 phone:
 
 # homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 6
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 4
 
 # social settings
 500px_url:
 facebook_url:
-github_url:
+github_url: https://github.com/cryptoeconomics-hub
 gitlab_url:
 googleplus_url:
 instagram_url:
@@ -28,6 +28,8 @@ linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url:
+telegram_url: https://t.me/cryptoeconomics
+discord_url: https://discord.gg/G9QbbC
 
 # build settings
 markdown: kramdown
