@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'The Power and Fear of Incentives'
-description: this is a description
+description: 
 image: assets/images/cryptoeconomics.hub-banner.jpg
 author: null
 ---
