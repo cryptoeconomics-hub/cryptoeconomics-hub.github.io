@@ -1,8 +1,8 @@
 # site settings
 title: Cryptoeconomics.hub
-subtitle: The Power and Fear of Incentives
+subtitle: 
 email: cryptoeconomics.hub@gmail.com
-description: 'Cryptoeconomics is what makes blockchain technology so exiting. It is about designing incentives to lead people's behaviour into a certain direction without forcing anyone. It is about cryptography, game theory, mechanism design, behavioural economics and so much more.'
+description: Cryptoeconomics is what makes blockchain technology so exiting. It is about designing incentives to lead people's behaviour into a certain direction without forcing anyone. It is about cryptography, game theory, mechanism design, behavioural economics and so much more.
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://cryptoeconomics-hub.github.io" # the base hostname & protocol for your site
 author:
