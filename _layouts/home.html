@@ -19,10 +19,10 @@
                 <h1>{{ page.landing-title }}</h1>
             </header>
             <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
+                <p style="text-transform: uppercase; font-size: 1em;">{{ site.description }}</p>
                 <ul class="actions">
                     <!-- <li><a href="#one" class="button next scrolly">Get Started</a></li> -->
-                    <li><a href="cryptoeconomics101.html" class="button next">Get Started</a></li>
+                    <li><a href="cryptoeconomics101.html" class="button next">Crash Course</a></li>
                 </ul>
             </div>
         </div>
@@ -33,18 +33,39 @@
 
         <!-- One -->
         {% include tiles.html %}
-
+        <div class="inner">
+          <ul class="actions">
+          	<li><a href="events.html" class="button next">All the events</a></li>
+          </ul>
+        </div>
         <!-- Two -->
         <section id="two">
             <div class="inner">
-                <header class="major">
-                    <h2>What is it about</h2>
-                </header>
+                <!-- <header class="major">
+                    <h2>What we do</h2>
+                </header> -->
                 <p>{{ content }}</p>
                 <!-- <ul class="actions">
                     <li><a href="cryptoeconomics101.html" class="button next">Get Started</a></li>
                 </ul> -->
             </div>
+        </section>
+        <!-- Three -->
+        <section id="three">
+        	{% include bio.html %}
+        </section>
+        <!-- Four -->
+        <section id="four">
+          <div class="inner">
+            <header class="major">
+                <h1>Want to Go Deeper?</h1>
+            </header>
+            <p>Everything we have learned so far allowed us to build an understanding of how the blockchain space works. We believe that <b>learning fundamentals is the only way to make progress in this space</b>. Although we recognise it is impossible to keep track of everything, we beilive we've got the fundamentals covered.</p>
+            <p>We are currently working on a <b>training program</b> about the fundamentals of blockchain and cryptoeconomics in particular. Make sure to check out soon to see our offerings and pick the one that suits you best.</p>
+            <!-- <ul class="actions">
+            	<li><a href="training.html" class="button next disabled">Training</a></li>
+            </ul> -->
+          </div>
         </section>
 
     </div>

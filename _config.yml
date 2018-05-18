@@ -1,16 +1,17 @@
 # site settings
 title: Cryptoeconomics.hub
-subtitle:
+subtitle: null
 email: cryptoeconomics.hub@gmail.com
-description: Cryptoeconomics is what makes blockchain technology so exiting. It is about designing incentives to lead people's behaviour into a certain direction without forcing anyone. It is about cryptography, game theory, mechanism design, behavioural economics and so much more.
+description: Cryptoeconomics is what makes blockchain technology exiting. It is about designing incentives to lead people's behaviour into a certain direction without forcing anyone. It makes use of cryptography, game theory and mechanism design to align the incentives of the participants of an economic network to get to a desirable outcome.
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://cryptoeconomics-hub.github.io" # the base hostname & protocol for your site
 author:
-street_address:
-city:
+venue: International Lab
+street_address: Calle Bailen 41
+city: Madrid
 state:
-zip_code:
-country:
+zip_code: 28013
+country: Spain
 phone:
 telegram: https://t.me/cryptoeconomics
 
@@ -21,7 +22,7 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/cryptoeconomics-hub
+github_url:
 gitlab_url:
 googleplus_url:
 instagram_url:
@@ -29,8 +30,10 @@ linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url:
-telegram_url: https://t.me/cryptoeconomics
-discord_url: https://discord.gg/G9QbbC
+telegram_url:
+discord_url:
+youtube_url:
+medium_url:
 
 # build settings
 markdown: kramdown

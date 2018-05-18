@@ -25,22 +25,25 @@
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
-					<a href="#">{{ site.email }}</a>
+					<h3>Drop an email</h3>
+					<a href="mailto:cryptoeconomics.hub@gmail.com">{{ site.email }}</a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-telegram"></span>
-					<h3>Telegram</h3>
+					<span class="icon alt"><i class="icon-m alt fab fa-telegram-plane"></i></span>
+					<h3>Chat on Telegram</h3>
 					<span>{{ site.telegram }}</span>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
-					<!-- <span>
+					<span class="icon alt"><i class="icon-m alt fab fa-meetup"></i></span>
+					<h3>Meetup every week</h3>
+					<span>
+					<a href="https://www.meetup.com/cryptoeconomics-hub/" alt="">{% if site.venue %}
+					    {{ site.venue }}</a><br />
+					{% endif %}
 					{% if site.street_address %}
 					    {{ site.street_address }}<br />
 					{% endif %}
@@ -56,7 +59,7 @@
 					{% if site.country %}
 					    {{ site.country }}
 					{% endif %}
-					</span> -->
+					</span>
 				</div>
 			</section>
 		</section>
@@ -67,6 +70,9 @@
 	<footer id="footer">
 		<div class="inner">
 			<ul class="icons">
+				{% if site.youtube_url %}
+				<li><a href="{{ site.youtube_url }}" class="icon alt fa-youtube" target="_blank"><span class="label">YouTube</span></a></li>
+				{% endif %}
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 				{% endif %}
@@ -97,17 +103,19 @@
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
-				{% if site.telegram_url %}
-				<li><a href="{{ site.telegram_url }}" class="icon alt fa-telegram" target="_blank"><span class="label">Telegram</span></a></li>
-				{% endif %}
-				{% if site.discord_url %}
-				<li><a href="{{ site.discord_url }}" class="icon alt fa-discord" target="_blank"><span class="label">Discord</span></a></li>
-				{% endif %}
+				<li><a href="https://www.meetup.com/cryptoeconomics-hub/" class="icon alt" target="_blank"><i class="icon-m alt fab fa-meetup"></i></a></li>
+				<li><a href="https://www.youtube.com/channel/UCFbR_m4I-40W56jUvJlzfkw" class="icon alt" target="_blank"><i class="icon-m alt fab fa-youtube"></i></a></li>
+				<li><a href="https://github.com/cryptoeconomics-hub" class="icon alt" target="_blank"><i class="icon-m alt fab fa-github"></i></a></li>
+				<li><a href="https://medium.com/ce-hub" class="icon alt" target="_blank"><i class="icon-m alt fab fa-medium-m"></i></a></li>
+				<li><a href="https://t.me/cryptoeconomics" class="icon alt" target="_blank"><i class="icon-m alt fab fa-telegram-plane"></i></a></li>
+				<li><a href="https://discord.gg/G9QbbC" class="icon alt" target="_blank"><i class="icon-m alt fab fa-discord"></i></a></li>
 			</ul>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a>.</li>
+				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a>.</li>
+				<li>Icons: <a href="https://thenounproject.com" target="_blank">The Noun Project</a>.</li>
+				<li>Photos: <a href="https://unsplash.com" target="_blank">Unsplash</a>.</li>
 
 			</ul>
 		</div>
