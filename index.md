@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: The Power and Fear of Incentives
-description: null
+description:
 image: assets/images/banner.jpg
 author: null
 ---
