@@ -38,9 +38,9 @@ nav-menu: false
 			<li>Bob fails to report Alice's successfully sent message</li>
 		</ol>
 		<p>If this is the game then there are several strategies both players can play: Alice and Bob can respectively tell the truth or lie regarding sending and receiving the message. Therefore to inform the network about the success or failure of Alice sending a message to Bob, there must be an incentive toward telling the truth. This is where cryptoeconomics kicks in.</p>
-		<header class="major">
+		<!-- <header class="major">
 			<h2>What are the goals of cryptoeconomics?</h2>
-		</header>
+		</header> -->
 		<p></p>
 		<p></p>
 		<p></p>
