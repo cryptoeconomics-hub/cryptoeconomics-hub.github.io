@@ -55,6 +55,7 @@ nav-menu: true
 			<div class="6u 12u$(small)">
 				<iframe src="//slides.com/donhylo/the-supply-chain-on-the-blockchain/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 			</div>
+		</div>
 		<div class="row 200%">
 			<div class="6u 12u$(small)">
 				<iframe src="//slides.com/donhylo/energy-through-blockchain/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -77,12 +78,6 @@ nav-menu: true
 			</div>
 			<div class="6u 12u$(small)">
 				<iframe src="//slides.com/donhylo/decentralised-applications/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-			</div>
-		</div>
-		<div class="row 200%">
-			<div class="6u 12u$(small)">
-			</div>
-			<div class="6u 12u$(small)">
 			</div>
 		</div>
 	</div>
