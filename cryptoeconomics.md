@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Getting Started With Cryptoeconomics
-description: A course on cryptoeconomics to get started and understand it's relevance in the blockchain space. There are numerous writings about cryptoeconomics out there. Here we'd like to give you a small pill about what cryptoeconomics is and provide you with further reading material.
+description: A course on cryptoeconomics to get started and understand it's relevance in the crypto space. There are numerous writings about cryptoeconomics out there. Here we'd like to give you a small pill about what cryptoeconomics is and provide you with further reading material.
 image: assets/images/cryptoeconomics.jpeg
 nav-menu: false
 ---

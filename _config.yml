@@ -2,16 +2,16 @@
 title: Cryptoeconomics.hub
 subtitle: null
 email: cryptoeconomics.hub@gmail.com
-description: Cryptoeconomics is what makes blockchain technology exiting. It is about designing incentives to lead people's behaviour into a certain direction without forcing anyone. It makes use of cryptography, game theory and mechanism design to align the incentives of the participants of an economic network to get to a desirable outcome.
+description: Cryptoeconomics is the foudation of the decentralised world. Based on cryptography, game theory, mechanism design and network science, the objective is to align the incentives of the participants to achieve a global desirable outcome.
 baseurl: # the subpath of your site, e.g. /blog
-url: "https://cryptoeconomics-hub.github.io" # the base hostname & protocol for your site
+url: "https://www.cryptoeconomicshub.org" # the base hostname & protocol for your site
 author:
-venue: International Lab
-street_address: Calle Bailen 41
-city: Madrid
+venue: Cryptoeconomics Sunday
+street_address: Sign up in Telegram
+city:
 state:
-zip_code: 28013
-country: Spain
+zip_code:
+country:
 phone:
 telegram: https://t.me/cryptoeconomics
 

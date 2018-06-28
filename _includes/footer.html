@@ -33,19 +33,19 @@
 				<div class="contact-method">
 					<span class="icon alt"><i class="icon-m alt fab fa-telegram-plane"></i></span>
 					<h3>Chat on Telegram</h3>
-					<span>{{ site.telegram }}</span>
+					<span><a href="https://t.me/cryptoeconomics" alt="">Enter the group here</a></span>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
 					<span class="icon alt"><i class="icon-m alt fab fa-meetup"></i></span>
-					<h3>Meetup every week</h3>
+					<h3>Online session, each week</h3>
 					<span>
-					<a href="https://www.meetup.com/cryptoeconomics-hub/" alt="">{% if site.venue %}
-					    {{ site.venue }}</a><br />
+					{% if site.venue %}
+					    {{ site.venue }}<br />
 					{% endif %}
-					{% if site.street_address %}
-					    {{ site.street_address }}<br />
+					<a href="https://t.me/CEsessions" alt="">{% if site.street_address %}
+					    {{ site.street_address }}</a><br />
 					{% endif %}
 					{% if site.city %}
 					    {{ site.city }},
