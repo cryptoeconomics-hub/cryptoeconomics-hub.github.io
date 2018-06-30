@@ -17,7 +17,7 @@ Cryptoeconomics is one of these important <b>new research fields</b> which combi
 
 <img class="image left" src="assets/images/logo-ce.hub-trspt-grey-nomargin.png" alt=""/>We organise <b>[Meetups](https://www.meetup.com/cryptoeconomics-hub/)</b> in several formats: regular events and <b>[learning sessions](https://t.me/CEsessions)</b>, both online and in person. You can watch every event we do on <b>[YouTube](https://www.youtube.com/channel/UCFbR_m4I-40W56jUvJlzfkw)</b>.
 
-Assembling and distributing the knowledge we acquire is one of our topmost mission. You can access our <b>[Cryptoeconomics Reading List](https://github.com/cryptoeconomics-hub/cryptoeconomics-reading-list)</b> where you will find interesting resources to start learning about cryptoeconomics. We also use <b>[Discord](https://discord.gg/G9QbbC)</b> to organise the information. There you will find a vast quantity of resources our community is learning from.
+Assembling and distributing the knowledge we acquire is one of our topmost mission. Check out all the material we use for talks, training, events and workshop in the <b>[knowledge-base section](knowledge-base.html)</b> of this site. You can access our <b>[Cryptoeconomics Reading List](https://github.com/cryptoeconomics-hub/cryptoeconomics-reading-list)</b> where you will find interesting resources to start learning about cryptoeconomics. We also use <b>[Discord](https://discord.gg/G9QbbC)</b> to organise the information. There you will find a vast quantity of resources our community is learning from.
 
 To quickly get in touch with the community and get the latest updates on news, events and stories about cryptoeconomics, you can get in our <b>[Telegram group](https://t.me/cryptoeconomics)</b>.
 
