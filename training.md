@@ -20,7 +20,7 @@ nav-menu: false
 				<ul class="alt">
 					<li style="text-align: center; font-size: 1.3em;">From Banking to Bitcoin</li>
 					<li style="text-align: center; font-size: 1.3em;">Ethereum, The World Computer</li>
-					<li style="text-align: center; font-size: 1.3em;">Experimental Blockchain Design</li>
+					<li style="text-align: center; font-size: 1.3em;">Experimental Blockchain Designs</li>
 					<li style="text-align: center; font-size: 1.3em;"><b>15 hours training</b></li>
 				</ul>
 				<ul style="text-align: center;" class="actions">
