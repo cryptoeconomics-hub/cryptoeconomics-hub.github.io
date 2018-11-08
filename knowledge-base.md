@@ -13,22 +13,28 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Work we are proud of</h2>
+			<h2>Core Components</h2>
 		</header>
 		<div class="row 200%">
-			<div class="6u 12u$(small)">
-				<span class="image fit"><a href="https://slides.com/sandravizmad/cryptoeconomics" alt=""><img src="assets/images/slides-sb-cryptoeconomics.png" alt="" /></a></span>
+			<div class="4u 12u$(small)">
+				<span class="image fit"><a href="https://slides.com/donhylo/bitcoin" alt=""><img src="assets/images/slides-lh-bitcoin.jpg" alt="" /></a></span>
 			</div>
-			<div class="6u 12u$(small)">
-				<span class="image fit"><a href="https://slides.com/sandravizmad/ethereum" alt=""><img src="assets/images/slides-sb-ethereum.png" alt="" /></a></span>
+			<div class="4u 12u$(small)">
+			<span class="image fit"><a href="https://slides.com/donhylo/ethereum" alt=""><img src="assets/images/slides-lh-ethereum.jpg" alt="" /></a></span>
+			</div>
+			<div class="4u 12u$(small)">
+			<span class="image fit"><a href="https://slides.com/donhylo/cryptoeconomics" alt=""><img src="assets/images/slides-lh-cryptoeconomics.jpg" alt="" /></a></span>
 			</div>
 		</div>
 		<div class="row 200%">
-			<div class="6u 12u$(small)">
-				<span class="image fit"><a href="https://slides.com/donhylo/stablecoins-and-autonomous-monetary-policy" alt=""><img src="assets/images/slides-lh-stablecoins.png" alt="" /></a></span>
+			<div class="4u 12u$(small)">
+			<span class="image fit"><a href="https://slides.com/sandravizmad/cryptoeconomics" alt=""><img src="assets/images/slides-sb-cryptoeconomics.jpg" alt="" /></a></span>
 			</div>
-			<div class="6u 12u$(small)">
-				<span class="image fit"><a href="https://slides.com/donhylo/governance-on-and-off-the-blockchain" alt=""><img src="assets/images/slides-lh-governance.png" alt="" /></a></span>
+			<div class="4u 12u$(small)">
+				<span class="image fit"><a href="https://slides.com/donhylo/token-based-economic-networks" alt=""><img src="assets/images/slides-lh-token-based-economic-networks.jpg" alt="" /></a></span>
+			</div>
+			<div class="4u 12u$(small)">
+			<span class="image fit"><a href="https://slides.com/donhylo/governance" alt=""><img src="assets/images/slides-lh-governance.jpg" alt="" /></a></span>
 			</div>
 		</div>
 	</div>
@@ -38,17 +44,17 @@ nav-menu: true
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>All of it</h2>
+			<h2>dApps, concepts and ideas</h2>
 		</header>
 		<div class="row 200%">
 			<div class="4u 12u$(small)">
-				<span class="image fit"><a href="https://slides.com/sandravizmad/bitcoin" alt=""><img src="assets/images/slides-sb-bitcoin.png" alt="" /></a></span>
+				<span class="image fit"><a href="https://slides.com/donhylo/stablecoins-and-autonomous-monetary-policy" alt=""><img src="assets/images/slides-lh-stablecoins.png" alt="" /></a></span>
 			</div>
 			<div class="4u 12u$(small)">
 				<span class="image fit"><a href="https://slides.com/donhylo/keys-addresses-and-wallets" alt=""><img src="assets/images/slides-lh-keys.png" alt="" /></a></span>
 			</div>
 			<div class="4u 12u$(small)">
-				<span class="image fit"><a href="http://slides.com/donhylo/cryptoeconomics-mechanism-design-for-tokens-context-and-perspectives" alt=""><img src="assets/images/slides-lh-cryptoeconomics.png" alt="" /></a></span>
+				<span class="image fit"><a href="http://slides.com/donhylo/token-curated-registries" alt=""><img src="assets/images/slides-lh-token-curated-registries.jpg" alt="" /></a></span>
 			</div>
 		</div>
 		<div class="row 200%">
