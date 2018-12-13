@@ -48,7 +48,7 @@ nav-menu: true
 		</header>
 		<div class="row 200%">
 			<div class="4u 12u$(small)">
-				<span class="image fit"><a href="https://slides.com/donhylo/stablecoins-and-autonomous-monetary-policy" alt=""><img src="assets/images/slides-lh-stablecoins.png" alt="" /></a></span>
+				<span class="image fit"><a href="https://slides.com/donhylo/stablecoins" alt=""><img src="assets/images/slides-lh-stablecoins.png" alt="" /></a></span>
 			</div>
 			<div class="4u 12u$(small)">
 				<span class="image fit"><a href="https://slides.com/donhylo/keys-addresses-and-wallets" alt=""><img src="assets/images/slides-lh-keys.png" alt="" /></a></span>
