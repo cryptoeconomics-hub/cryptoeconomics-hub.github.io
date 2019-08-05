@@ -1,8 +1,8 @@
 ---
 layout: landing
 title: Training
-description: How to design Token–based Economic Networks? Learn about the fundamentals of blockchain technologies and the art of designing mechanisms to sustain them. Below are the modules we can offer. Because each person has a different background and different needs, please get in touch and list the modules you are interested in so that we can provide you with an offer that suits your real needs.
-image: assets/images/raj-eiamworakul-603747-unsplash.jpg
+description: How to design Token–based Economic Networks? Learn about the fundamentals of blockchain technologies and the art of designing mechanisms to sustain them. Below are the modules we offer. Because each person has a different background and different needs, please get in touch and list the modules you are interested in so that we can provide you with an offer that suits your real needs.
+image: assets/images/joao-tzanno-622687-unsplash.jpg
 nav-menu: true
 ---
 
@@ -31,6 +31,12 @@ nav-menu: true
       </div>
     </div>
     <!-- Break -->
+		<div class="box features align-center">
+			<h2 style="font-size: 2em; color: #ffffff; margin-bottom: 10px;">A few things to consider when choosing with whom to learn</h2>
+			<h3 style="color: #ffffff; text-transform: uppercase;">values &nbsp;&nbsp;|&nbsp;&nbsp; dedication &nbsp;&nbsp;|&nbsp;&nbsp; skin in the game</h3>
+			<p style="font-size: 1.2em;">We have been <a href="#bio" class="scrolly">involved with Distributed Ledger Technologies since 2015</a>. We firmly believe in the transformative impacts that DLT will have on the way societies organise themselves. We have been organising <a href="events.html" class="scrolly">events</a> for multiple platforms and formats. And we quit our former job to dedicate ourselves to crypto.</p>
+		</div>
+		<!-- Break -->
 		<div class="row">
 			<div class="6u 12u$(medium)">
 				<div id="cryptoeconomics" class="box">
@@ -80,10 +86,24 @@ nav-menu: true
 		<header class="major">
 			<h1>Practical information</h1>
 		</header>
-		<p>We are happy to travel to your location to teach our training. We don't offer continuous training on a regular basis.</p>
-		<p>We can offer the training in English, Spanish or French although our support material will always be in English.</p>
-		<p>Please <a href="#contact" class="scrolly">get in touch</a> with the list of modules you would like to take. We will reply to you as soon as possible with an offer.</p>
-		<p>If you would like us to cover the industry you are working in and providing there is enough relevant material, we would be happy to do it for you.</p>
+		<dl>
+	    <dt>Tell us the location</dt>
+	    <dd>
+	      <p>We are happy to travel to your location to teach our training. We don't offer continuous training on a regular basis.</p>
+	    </dd>
+			<dt>Pick the language you like</dt>
+	    <dd>
+	      <p>We can offer the training in English, Spanish or French although our support material will always be in English.</p>
+	    </dd>
+			<dt>Chose the content you are mot interested in</dt>
+	    <dd>
+	      <p>Please <a href="#contact" class="scrolly">get in touch</a> with the list of modules you would like to take. We will reply to you as soon as possible with an offer.</p>
+	    </dd>
+			<dt>A training made specifically for you</dt>
+	    <dd>
+	      <p>If you would like us to cover the industry you are working in and providing there is enough relevant material, we would be happy to do it for you.</p>
+	    </dd>
+		</dl>
 	</div>
 </section>
 <!-- Three -->

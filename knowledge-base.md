@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: page
 title: Knowledge base
 description: A repository of all the material we have curated ourselves and used in different events, talks and workshops.
 image: assets/images/joao-tzanno-622687-unsplash.jpg

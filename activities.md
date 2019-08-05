@@ -17,9 +17,6 @@ nav-menu: true
 		</header>
 		<p>One of the most valuable thing you will find in the crypto community is its <b>openness to sharing and explaining stuff</b> to people. This hub will be no different. It will share the same values, only that it will focus on cryptoeconomics.</p>
 		<p>We believe cryptoeconomics is what really matters in the crypto space and the only field of research worth researching to make significant progress. We want to build <b>an international community from all genders, backgrounds and interests</b> that wants to partake in making history.</p>
-		<!-- <ul class="actions">
-			<li><a href="#" class="button next">Start Learning</a></li>
-		</ul> -->
 	</div>
 </section>
 
@@ -87,28 +84,12 @@ nav-menu: true
 				<header class="major">
 					<h3>Training</h3>
 				</header>
-				<p>Everything we have learned so far allowed us to build an understanding of how the blockchain space works. We believe that <b>learning fundamentals is the only way to make progress in this space</b>. Although we recognise it is impossible to keep track of everything, we beilive we've got the fundamentals covered.</p>
+				<p>Everything we have learned so far allowed us to build an understanding of how the blockchain works. We believe that <b>learning the fundamentals is the only way to make progress in this space</b>.</p>
+				<p>We are currently offering a <b><a href="training.html" alt="">training program</a></b> about the fundamentals of blockchain and cryptoeconomics in particular. We group our lectures in modules but we can also accommodate your specific needs.</p>
 				<p>If you are interested in being part of this education program don't hesitate to <a href="#contact" class="scrolly" alt="">get in touch</a>.</p>
-				<p>We are currently working on a <b>training program</b> about the fundamentals of blockchain and cryptoeconomics in particular. Make sure to check out soon to see our offerings and pick the one that suits you best.</p>
-				<!-- <ul class="actions">
-					<li><a href="training.html" class="button next disabled">Check it out</a></li>
-				</ul> -->
 			</div>
 		</div>
 	</section>
 </section>
-
-<!-- Three -->
-<!-- <section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Desirable Outcome</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="#" class="button next">Start Learning</a></li>
-		</ul>
-	</div>
-</section> -->
 
 </div>
